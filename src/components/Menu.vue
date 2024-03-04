@@ -108,4 +108,26 @@
     .contacts-icon::after { 
         content: "Contacts";
     }
+
+    @media (max-width: 400px) {
+        li {
+        width: 75px;
+        height: 75px;
+        font-size: .8em;
+    }
+    li:hover {
+	    transform: translateY(-75px);
+    }
+    li::after {
+        width: 75px; 
+        height: 75px;
+        font-size: 1em;
+        line-height: 75px;
+    }
+    li:hover::after {
+        opacity: 1;
+        transform: translateY(75px);
+        top: 0;
+    }
+    }
 </style>

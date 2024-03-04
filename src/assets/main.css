@@ -71,3 +71,15 @@ a {
 a:visited {
   text-decoration: none;
 }
+
+@media (max-width: 400px) {
+  html {
+    font-size: 14px;
+  }
+  header {
+    height: 100px;
+  }
+  main {
+    top: 100px;
+  }
+}

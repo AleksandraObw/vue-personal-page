@@ -1,29 +1,11 @@
-# personal-page
+# Vue Personal Page
 
-This template should help get you started developing with Vue 3 in Vite.
+My personal page. It contains main information about me and about my projects. You can send me message (works with EmailJS).
 
-## Recommended IDE Setup
+Моя страница-визитка. Содержит информацию обо мне и список того, что я наделала, пытаясь научиться программировать. В разделе "Контакты" можно отправить письмо мне на почту (реализовано с помощью EmailJS). Проект на английском.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
++ *[View it in action on vercel.com](https://vue-personal-page.vercel.app/)*
++ *[View code](https://github.com/AleksandraObw/vue-personal-page)*
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+![Screenshot](https://github.com/AleksandraObw/vue-personal-page/blob/main/public/screen1.png)
+![Screenshot](https://github.com/AleksandraObw/vue-personal-page/blob/main/public/screen2.png)
