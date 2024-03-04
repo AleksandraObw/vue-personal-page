@@ -1,0 +1,186 @@
+[
+    {
+        "id": 0,
+        "title": "Junior 1 - Advice generator App",
+        "description": "HTML/CSS/JS",
+        "image": "",
+        "link": "https://codepen.io/ayavlrk/pen/WNWbXaN",
+        "github": "https://github.com/AleksandraObw/frontendmentor/tree/main/1junior-advice-generator-app-main" 
+    },
+    {
+        "id": 1,
+        "title": "Junior 2 - Expanses chart",
+        "description": "HTML/CSS/JS",
+        "image": "",
+        "link": "",
+        "github": "https://github.com/AleksandraObw/frontendmentor/tree/main/2junior-expenses-chart-component-main"
+    },
+    {
+        "id": 2,
+        "title": "Junior 3 - Tip calculator",
+        "description": "HTML/CSS/JS",
+        "image": "",
+        "link": "https://codepen.io/ayavlrk/pen/XWQJzOg",
+        "github": "https://github.com/AleksandraObw/frontendmentor/tree/main/3junior-tip-calculator-app-main" 
+    },
+    {
+        "id": 3,
+        "title": "Newbie 1 - QR component",
+        "description": "HTML/CSS",
+        "image": "",
+        "link": "",
+        "github": "https://github.com/AleksandraObw/frontendmentor/tree/main/1newbie-qr-code-component-main"
+    },
+    {
+        "id": 4,
+        "title": "Newbie 2 - Product preview card",
+        "description": "HTML/CSS",
+        "image": "",
+        "link": "",
+        "github": "https://github.com/AleksandraObw/frontendmentor/tree/main/2newbie-product-preview-card-component-main"
+    },
+    {
+        "id": 5,
+        "title": "Newbie 3 - Intro component with sign-up form",
+        "description": "HTML/CSS/JS",
+        "image": "",
+        "link": "",
+        "github": "https://github.com/AleksandraObw/frontendmentor/tree/main/3newbie-intro-component-with-signup-form-master"
+    },
+    {
+        "id": 6,
+        "title": "Newbie 4 - Profile card",
+        "description": "HTML/CSS",
+        "image": "",
+        "link": "",
+        "github": "https://github.com/AleksandraObw/frontendmentor/tree/main/4newbie-profile-card-component-main"
+    },
+    {
+        "id": 7,
+        "title": "Newbie 5 - Results summary",
+        "description": "HTML/CSS/JS",
+        "image": "",
+        "link": "",
+        "github": "https://github.com/AleksandraObw/frontendmentor/tree/main/5newbie-results-summary-component"
+    },
+    {
+        "id": 8,
+        "title": "Newbie 6 - NFT preview card",
+        "description": "HTML/CSS",
+        "image": "",
+        "link": "https://n5-kanji-quiz.vercel.app/",
+        "github": "https://github.com/AleksandraObw/frontendmentor/tree/main/6newbie-nft-preview-card-component-main"
+    },
+    {
+        "id": 9,
+        "title": "Newbie 7 - Interactive rating",
+        "description": "HTML/CSS/JS",
+        "image": "",
+        "link": "",
+        "github": "https://github.com/AleksandraObw/frontendmentor/tree/main/7newbie-interactive-rating-component-main"
+    },
+    {
+        "id": 10,
+        "title": "Newbie 8 - Order summary",
+        "description": "HTML/CSS",
+        "image": "",
+        "link": "",
+        "github": "https://github.com/AleksandraObw/frontendmentor/tree/main/8newbie-order-summary-component-main"
+    },
+    {
+        "id": 11,
+        "title": "Newbie 9 - Single price grid",
+        "description": "HTML/CSS",
+        "image": "",
+        "link": "",
+        "github": "https://github.com/AleksandraObw/frontendmentor/tree/main/9newbie-single-price-grid-component-master"
+    },
+    {
+        "id": 12,
+        "title": "Newbie 10 - FAQ accordion",
+        "description": "HTML/CSS/JS",
+        "image": "",
+        "link": "",
+        "github": "https://github.com/AleksandraObw/frontendmentor/tree/main/10newbie-faq-accordion-card-main"
+    },
+    {
+        "id": 13,
+        "title": "Newbie 11 - Stats preview card",
+        "description": "HTML/CSS",
+        "image": "",
+        "link": "",
+        "github": "https://github.com/AleksandraObw/frontendmentor/tree/main/11newbie-stats-preview-card-component-main"
+    },
+    {
+        "id": 14,
+        "title": "Newbie 12 - Four cars feature section",
+        "description": "HTML/CSS",
+        "image": "",
+        "link": "",
+        "github": "https://github.com/AleksandraObw/frontendmentor/tree/main/12newbie-four-card-feature-section-master"
+    },
+    {
+        "id": 15,
+        "title": "Newbie 13 - 3 column preview card",
+        "description": "HTML/CSS",
+        "image": "",
+        "link": "",
+        "github": "https://github.com/AleksandraObw/frontendmentor/tree/main/13newbie-3-column-preview-card-component-main"
+    },
+    {
+        "id": 16,
+        "title": "Newbie 14 - Article preview",
+        "description": "HTML/CSS/JS",
+        "image": "",
+        "link": "",
+        "github": "https://github.com/AleksandraObw/frontendmentor/tree/main/14newbie-article-preview-component-master"
+    },
+    {
+        "id": 17,
+        "title": "Newbie 15 - FAQ accordion",
+        "description": "HTML/CSS",
+        "image": "",
+        "link": "",
+        "github": "https://github.com/AleksandraObw/frontendmentor/tree/main/15newbie-faq-accordion-main"
+    },
+    {
+        "id": 18,
+        "title": "Newbie 16 - Ping coming soon",
+        "description": "HTML/CSS/JS",
+        "image": "",
+        "link": "",
+        "github": "https://github.com/AleksandraObw/frontendmentor/tree/main/16newbie-ping-coming-soon-page-master"
+    },
+    {
+        "id": 19,
+        "title": "Newbie 17 - Base apparel coming soon",
+        "description": "HTML/CSS/JS",
+        "image": "",
+        "link": "",
+        "github": "https://github.com/AleksandraObw/frontendmentor/tree/main/17newbie-base-apparel-coming-soon-master"
+    },
+    {
+        "id": 20,
+        "title": "Newbie 18 - Blog preview card",
+        "description": "HTML/CSS",
+        "image": "",
+        "link": "",
+        "github": "https://github.com/AleksandraObw/frontendmentor/tree/main/18newbie-blog-preview-card-main"
+    },
+    {
+        "id": 21,
+        "title": "Newbie 19 - Social proof section",
+        "description": "HTML/CSS",
+        "image": "",
+        "link": "",
+        "github": "https://github.com/AleksandraObw/frontendmentor/tree/main/19newbie-social-proof-section-master"
+    },
+    {
+        "id": 22,
+        "title": "Newbie 20 - Social links",
+        "description": "HTML/CSS",
+        "image": "",
+        "link": "",
+        "github": "https://github.com/AleksandraObw/frontendmentor/tree/main/20newbie-social-links-profile-main"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "id": 0,
+        "title": "Pioneer",
+        "description": "Verstaem.online - Pioneer",
+        "image": "/public/images/pioneer.png",
+        "link": "https://from-figma-pioneer.vercel.app/",
+        "github": "https://github.com/AleksandraObw/fromFigma_pioneer" 
+    },
+    {
+        "id": 1,
+        "title": "InkHouse",
+        "description": "Verstaem.online - inkHouse",
+        "image": "/public/images/inkhouse.png",
+        "link": "https://from-figma-ink-house.vercel.app/",
+        "github": "https://github.com/AleksandraObw/fromFigma_inkHouse"
+    }
+]
