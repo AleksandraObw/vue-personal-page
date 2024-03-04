@@ -11,7 +11,7 @@
         "id": 1,
         "title": "InkHouse",
         "description": "Verstaem.online - inkHouse",
-        "image": "./images/inkhouse.png",
+        "image": "/images/inkhouse.png",
         "link": "https://from-figma-ink-house.vercel.app/",
         "github": "https://github.com/AleksandraObw/fromFigma_inkHouse"
     }
