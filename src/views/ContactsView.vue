@@ -88,7 +88,6 @@ export default {
         background-position-x: 150%;
     }
     input[type="submit"]:hover {
-        /* border: 2px solid  */
         box-shadow: inset 0 0 2px 2px #00b3b9;
         box-shadow: 0 0 2px 2px #00b3b9;
         background-position-x: -150%;

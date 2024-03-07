@@ -19,7 +19,7 @@
     width: max(60%, 300px);
   }
   .bg-image {
-    background-image: url('../../public/catbg2.png');
+    background-image: url('../assets/catbg2.png');
     background-repeat: no-repeat;
     background-position: bottom right;
     background-size: contain;

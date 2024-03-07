@@ -1,10 +1,11 @@
 <script>
-  import ProjectsList from '../components/ProjectsList.vue/'
+  import ProjectsList from '../components/ProjectsList.vue'
   import FMProject from '../components/FMProject.vue'
-  import jsonData from '../../public/vanillajs.json'
-  import jsonData2 from '../../public/vuejs.json'
-  import jsonData3 from '../../public/verstaemonline.json'
-  import jsonData4 from '../../public/frontendmentor.json'
+  import VOProject from '../components/VOProject.vue'
+  import jsonData from '../assets/vanillajs.json'
+  import jsonData2 from '../assets/vuejs.json'
+  import jsonData3 from '../assets/verstaemonline.json'
+  import jsonData4 from '../assets/frontendmentor.json'
 
   export default {
     data() {
@@ -18,7 +19,8 @@
     props: 'typesection',
     components: {
       ProjectsList,
-      FMProject
+      FMProject,
+      VOProject
     }
   }
 </script>
@@ -45,7 +47,12 @@
       <div class="projects_verstaemonline">
         <h3>Projects made with Verstaem.Online layouts</h3>
         <div class="listing">
-          <ProjectsList v-bind:typesection="verstaemonline" />
+          <ul class="vo-list">
+            <VOProject 
+                      v-for="item of verstaemonline"
+                      v-bind:item="item"
+            />
+          </ul>
         </div>
       </div>
 
@@ -102,5 +109,12 @@
       display: flex;
       flex-direction: column;
       row-gap: 1em;
+    }
+    .vo-list {
+        display: flex;
+        flex-direction: row;
+        column-gap: 2em;
+        row-gap: 1em;
+        flex-wrap: wrap;
     }
   </style>

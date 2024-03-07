@@ -3,7 +3,7 @@
         "id": 0,
         "title": "Tic Tac Toe",
         "description": "HTML/CSS/JS. Tic Tac Toe game for 2 human players",
-        "image": "/images/tictactoe.png",
+        "image": "src/assets/images/tictactoe.png",
         "link": "https://tic-tac-toe-delta-ivory.vercel.app/",
         "github": "https://github.com/AleksandraObw/tic-tac-toe" 
     },
@@ -11,7 +11,7 @@
         "id": 1,
         "title": "To Do List",
         "description": "HTML/CSS/JS. To Do list",
-        "image": "/images/todolist.png",
+        "image": "src/assets/images/todolist.png",
         "link": "https://to-do-list-two-snowy.vercel.app/",
         "github": "https://github.com/AleksandraObw/to-do-list"
     },
@@ -19,7 +19,7 @@
         "id": 2,
         "title": "Rock Paper Scissors",
         "description": "HTML/CSS/JS. Rock Paper Scissors game for 1 player",
-        "image": "/images/rockpaperscissors.png",
+        "image": "src/assets/images/rockpaperscissors.png",
         "link": "https://rock-paper-scissors-henna-ten.vercel.app/",
         "github": "https://github.com/AleksandraObw/rock-paper-scissors" 
     },
@@ -27,7 +27,7 @@
         "id": 3,
         "title": "Calculator",
         "description": "HTML/CSS/JS. Simple calculator",
-        "image": "/images/calculator.png",
+        "image": "src/assets/images/calculator.png",
         "link": "https://calculator-alpha-ashen.vercel.app/",
         "github": "https://github.com/AleksandraObw/calculator"
     },
@@ -35,7 +35,7 @@
         "id": 4,
         "title": "Kanji Quiz",
         "description": "HTML/CSS/JS. Kanji quiz (N5 level)",
-        "image": "/images/kanjiquiz.png",
+        "image": "src/assets/images/kanjiquiz.png",
         "link": "https://n5-kanji-quiz.vercel.app/",
         "github": "https://github.com/AleksandraObw/n5-kanji-quiz"
     }
