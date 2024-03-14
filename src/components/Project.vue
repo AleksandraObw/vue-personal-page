@@ -12,7 +12,7 @@ export default {
 <template>
     <li>
         <h3>{{ item.title }}</h3>
-        <img :src="item.image">
+        <img v-bind:src="item.image">
         <p>{{ item.description }}</p>
         <p><a :href="item.link" target="_blank">Link</a> | <a :href="item.github" target="_blank">GitHub</a></p>
     </li>
