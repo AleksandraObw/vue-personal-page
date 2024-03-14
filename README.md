@@ -7,5 +7,5 @@ My personal page. It contains main information about me and about my projects. Y
 + *[View it in action on vercel.com](https://vue-personal-page.vercel.app/)*
 + *[View code](https://github.com/AleksandraObw/vue-personal-page)*
 
-![Screenshot](https://github.com/AleksandraObw/vue-personal-page/blob/main/public/screen1.png)
-![Screenshot](https://github.com/AleksandraObw/vue-personal-page/blob/main/public/screen2.png)
+![Screenshot](https://github.com/AleksandraObw/vue-personal-page/blob/main/src/assets/screen1.png)
+![Screenshot](https://github.com/AleksandraObw/vue-personal-page/blob/main/src/assets/screen2.png)
