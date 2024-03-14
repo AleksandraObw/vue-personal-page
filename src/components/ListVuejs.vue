@@ -32,14 +32,15 @@
     }
     .img {
         width: 200px;
-        height: 100%;
-        object-fit: cover;
+        height: 220px;
+        background-size: contain;
+        background-repeat: no-repeat;
     }
     .img2 {
-        background-image: url("../assets/todolist.png");
+        background-image: url("../assets/images/vue-todolist.png");
     }
     .img1 {
-        background-image: url("../assets/vue-mathquiz.png");
+        background-image: url("../assets/images/vue-mathquiz.png");
     }
     h3 {
         text-align: center;

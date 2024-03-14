@@ -1,28 +1,22 @@
 <script>
-  import ProjectsList from '../components/ProjectsList.vue'
   import FMProject from '../components/FMProject.vue'
-  import VOProject from '../components/VOProject.vue'
-  import jsonData from '../assets/vanillajs.json'
-  import jsonData2 from '../assets/vuejs.json'
-  import jsonData3 from '../assets/verstaemonline.json'
-  import jsonData4 from '../assets/frontendmentor.json'
+  import jsonData from '../assets/frontendmentor.json'
   import ListVuejs from '../components/ListVuejs.vue'
+  import ListJs from '../components/ListJs.vue'
+  import ListVerstaemonline from '../components/ListVerstaemonline.vue'
 
   export default {
     data() {
         return {
-            vanillajs: jsonData,
-            vuejs: jsonData2,
-            verstaemonline: jsonData3,
-            frontendmentor: jsonData4
+            frontendmentor: jsonData
         };
     },
     props: 'typesection',
     components: {
-      ProjectsList,
       FMProject,
-      VOProject,
-      ListVuejs
+      ListVuejs,
+      ListJs,
+      ListVerstaemonline
     }
   }
 </script>
@@ -32,38 +26,27 @@
     <p>Since I don't have commercial development experience, this section contains training projects and exercises I've done.</p>
     <div class="page">
 
-      <!-- <div class="projects_vanillajs">
-        <h3>Projects made with VanillaJS</h3>
-        <div class="listing">
-          <ProjectsList v-bind:typesection="vanillajs" />
-        </div>
-      </div> -->
-      <div class="projects_vanillajs">
-        <h3>Projects made with VanillaJS</h3>
+      <div class="projects_vuejs">
+        <h3>Projects made with VueJS</h3>
         <div class="listing">
           <ListVuejs />
         </div>
       </div>
- 
-      <div class="projects_vuejs">
-        <h3>Projects made with VueJS</h3>
+
+      <div class="projects_vanillajs">
+        <h3>Projects made with VanillaJS</h3>
         <div class="listing">
-          <ProjectsList v-bind:typesection="vuejs" />
+          <ListJs />
         </div>
       </div>
 
       <div class="projects_verstaemonline">
         <h3>Projects made with Verstaem.Online layouts</h3>
         <div class="listing">
-          <ul class="vo-list">
-            <VOProject 
-                      v-for="item of verstaemonline"
-                      v-bind:item="item"
-            />
-          </ul>
+          <ListVerstaemonline />
         </div>
       </div>
-
+ 
       <div class="projects_frontendmentor">
         <h3>Frontendmentor challenges</h3>
         <div class="listing">
