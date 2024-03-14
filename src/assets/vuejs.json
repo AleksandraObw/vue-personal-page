@@ -3,7 +3,7 @@
         "id": 0,
         "title": "Math Quiz",
         "description": "Math quiz for children (subtraction and addition of numbers up to 20)",
-        "image": "src/assets/images/vue-mathquiz.png",
+        "image": "/public/images/vue-mathquiz.png",
         "link": "https://vue-math-quiz.vercel.app/",
         "github": "https://github.com/AleksandraObw/vue-math-quiz" 
     },
@@ -11,7 +11,7 @@
         "id": 1,
         "title": "To Do List",
         "description": "To-do list. Add tasks and delete completed ones",
-        "image": "src/assets/images/todolist.png",
+        "image": "/public/images/todolist.png",
         "link": "https://vue-todolist-rho.vercel.app/",
         "github": "https://github.com/AleksandraObw/vue-todolist"
     }
