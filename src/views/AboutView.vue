@@ -44,6 +44,9 @@
                 <img class="tool_img" src="https://img.icons8.com/color/48/vue-js.png" alt="vue js"/>
               </li>
               <li>
+                <img class="tool_img" src="https://img.icons8.com/color/48/sass.png" alt="sass"/>
+              </li>
+              <li>
                 <img class="tool_img" src="https://img.icons8.com/color-glass/32/bootstrap.png" alt="bootstrap"/>
               </li>
               <li>
