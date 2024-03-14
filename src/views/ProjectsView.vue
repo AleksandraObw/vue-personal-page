@@ -6,6 +6,7 @@
   import jsonData2 from '../assets/vuejs.json'
   import jsonData3 from '../assets/verstaemonline.json'
   import jsonData4 from '../assets/frontendmentor.json'
+  import ListVuejs from '../components/ListVuejs.vue'
 
   export default {
     data() {
@@ -20,7 +21,8 @@
     components: {
       ProjectsList,
       FMProject,
-      VOProject
+      VOProject,
+      ListVuejs
     }
   }
 </script>
@@ -30,10 +32,16 @@
     <p>Since I don't have commercial development experience, this section contains training projects and exercises I've done.</p>
     <div class="page">
 
-      <div class="projects_vanillajs">
+      <!-- <div class="projects_vanillajs">
         <h3>Projects made with VanillaJS</h3>
         <div class="listing">
           <ProjectsList v-bind:typesection="vanillajs" />
+        </div>
+      </div> -->
+      <div class="projects_vanillajs">
+        <h3>Projects made with VanillaJS</h3>
+        <div class="listing">
+          <ListVuejs />
         </div>
       </div>
  
