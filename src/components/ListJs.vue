@@ -33,7 +33,7 @@
 	<li>
             <h3>Momentum</h3>
             <div class="img6 img"></div>
-            <p>HTML/CSS/JS. Kanji quiz (N5 level)</p>
+            <p>HTML/CSS/JS. Momentum clone</p>
             <p><a href="https://momentum-two-puce.vercel.app/" target="_blank">Link</a> | <a href="https://github.com/AleksandraObw/momentum" target="_blank">GitHub</a></p>
         </li>
     </ul>
