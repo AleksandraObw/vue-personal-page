@@ -71,7 +71,7 @@
         <div class="infoblock">
           <ul class="tools_list">
             <li>
-              <a href="https://t.me/AlexandraObw" target="blank"><img class="tool_img" src="https://img.icons8.com/color/32/telegram-app--v1.png"></a>
+              <a href="https://t.me/AleksandraObw" target="blank"><img class="tool_img" src="https://img.icons8.com/color/32/telegram-app--v1.png"></a>
             </li>
             <li>
               <a href="https://github.com/AleksandraObw" target="blank" rel="norefferer noopener"><img class="tool_img" src="https://img.icons8.com/glyph-neue/64/github.png"></a>
