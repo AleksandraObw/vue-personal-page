@@ -30,6 +30,12 @@
             <p>HTML/CSS/JS. Kanji quiz (N5 level)</p>
             <p><a href="https://n5-kanji-quiz.vercel.app/" target="_blank">Link</a> | <a href="https://github.com/AleksandraObw/n5-kanji-quiz" target="_blank">GitHub</a></p>
         </li>
+	<li>
+            <h3>Momentum</h3>
+            <div class="img6 img"></div>
+            <p>HTML/CSS/JS. Kanji quiz (N5 level)</p>
+            <p><a href="https://momentum-two-puce.vercel.app/" target="_blank">Link</a> | <a href="https://github.com/AleksandraObw/momentum" target="_blank">GitHub</a></p>
+        </li>
     </ul>
 </template>
 
@@ -68,6 +74,9 @@
     }
     .img5 {
         background-image: url("../assets/images/kanjiquiz.png");
+    }
+    .img6 {
+        background-image: url("../assets/images/momentum.png");
     }
     h3 {
         text-align: center;
